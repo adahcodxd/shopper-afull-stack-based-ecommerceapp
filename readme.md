@@ -8,8 +8,13 @@
 =======
 **MERN Ecommerce** is a full-stack application designed to transform your online shopping experience. Built with the MERN stack (MongoDB, Express.js, React, Node.js), it leverages Redux Toolkit for efficient state management and Material UI for a sleek, user-friendly interface. This project offers a robust platform for both users and admins, packed with essential features for a seamless experience.
 
->>>>>>> 2a132b42ff4dd2e99f4f9ab2e0ae498d736f8746
+## Cloning the Repository
 
+To clone this repository, use the following command:
+
+```bash
+git clone https://github.com/adahcodxd/shopper-afull-stack-based-ecommerceapp.git
+```
 # **Features**
 
 ### **User:**
@@ -54,11 +59,6 @@
 ### Prerequisites
 - Node.js ( version v21.1.0 or later )
 - MongoDB installed and running locally
-
-### Clone the project
-
-<<<<<<< HEAD
-```bash https://github.com/adahcodxd/shopper-afull-stack-based-ecommerceapp
 
 
 ### Navigate to the project directory
@@ -175,7 +175,6 @@ Once both servers are running, you can access them at the following URL's:
 Don't forget to star the repository and share your feedback!✨
 
 ## Authors
-<<<<<<< HEAD
 - [@Amritanshu Jha](https://github.com/adahcodxd)
 
 
