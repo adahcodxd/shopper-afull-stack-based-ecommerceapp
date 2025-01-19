@@ -60,11 +60,6 @@
 <<<<<<< HEAD
 ```bash https://github.com/adahcodxd/shopper-afull-stack-based-ecommerceapp
 
-=======
-```bash
-   git clone https://github.com/adahcodxd/shopper-afull-stack-based-ecommerceapp.git
->>>>>>> 2a132b42ff4dd2e99f4f9ab2e0ae498d736f8746
-```
 
 ### Navigate to the project directory
 
@@ -182,6 +177,5 @@ Don't forget to star the repository and share your feedback!✨
 ## Authors
 <<<<<<< HEAD
 - [@Amritanshu Jha](https://github.com/adahcodxd)
-=======
-- [@Amritanshu Jha] (https://github.com/adahcodxd)
->>>>>>> 2a132b42ff4dd2e99f4f9ab2e0ae498d736f8746
+
+
